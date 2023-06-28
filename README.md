@@ -8,7 +8,7 @@
 | [Abdulkareem Anwar](https://github.com/Abdelkareem-Anwar) |
 | [Abdulrahman Emad](https://github.com/AbdoEmad99) |
 | [Shreen Mohamed](https://github.com/Shreen5) |
-| [Sohalia Hassan](https://github.com/sohaila2) |
+| [Sohaila Hassan](https://github.com/sohaila2) |
 | [Islam Reda](https://github.com/EslamTys0n) |
 
 #### [Proposing Alertawy](https://www.canva.com/design/DAFlcxArrF4/8AGAj3IOSuUBNd198ntrQw/view?utm_content=DAFlcxArrF4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink), Your ultimate driving safety companion. Revolutionizing driver safety through AI-Powered monitoring system.
@@ -26,7 +26,16 @@ The web application serves as an administration platform, enabling transportatio
 
 
 
+https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/a2017c21-e6bf-4eb9-8b5d-5c2ffdf8116d
+
+
+
 # **Alertawy DMS Demo**
+
+
+
+https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/9c6b0adf-a7f6-470c-a3da-16c4ace4c531
+
 
 
 #### For more information regarding each application, please refer to the [Mobile App](https://github.com/abduulrahmankhalid/Alertawy/tree/Mobile-App), [Testing App](https://github.com/abduulrahmankhalid/Alertawy/tree/Testing-App), and [Web App](https://github.com/abduulrahmankhalid/Alertawy/tree/Web-App) Branches. 
