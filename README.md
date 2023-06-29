@@ -7,14 +7,14 @@ For the development of our mobile application, we chose the Flutter framework du
 #### For more information regarding Alertawy Mobile App, please refer to the [documentation]().
 
 # Alertawy Mobile App UI
-### Introduction Pages
+- ### Introduction Pages
 ![1](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/22408360-61ed-4d91-96a0-352cddb55fdf)
 ![2](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/878ba3c5-60db-463d-bcf1-516d8f4fe343)
 
-### Main Pages
+- ### Main Pages
 ![3](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/12157a30-5298-4163-b30f-c2155fdbbc8d)
 
-### Rides Pages
+- ### Rides Pages
 ![4](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/3cb136fb-5a22-44e5-88b3-4297077e381c)
 
 
