@@ -7,6 +7,11 @@ Similar to our mobile application, we utilized the Flutter framework for the dev
 
 #### For more information regarding Alertawy Web App, please refer to the [documentation]().
 
+# Alertawy Web App UI
+
+![7](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/b2202f07-f2a7-46ff-b94d-01d1d69c9da6)
+![8](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/117ef92e-69cc-465c-9e33-7c2d78c019c0)
+
 # Alertawy Web App Full Demo
 
 https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/54f958d5-94ad-4ea9-bf6c-d91462d24f43
