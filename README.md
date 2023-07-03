@@ -4,6 +4,8 @@
 # Abstract
 For the development of our mobile application, we chose the Flutter framework due to its user-friendly nature, easy learning curve, and seamless integration with our system components. Firebase Firestore was selected as our database solution, benefiting from its cloud-based architecture and compatibility with our web application. Leveraging Google Maps API, we incorporated map monitoring functionality into our mobile application, as it offers smooth integration with our system components and serves as the best free option for a maps API with strong support in the Flutter framework.
 
+Our mobile application is developed using the Flutter framework, which offers numerous features and advantages for building clean code architectures following design patterns. We have been meticulous in adhering to these principles, including SOLID Principles, as well as implementing other design patterns such as Singleton Design Pattern for our Monitoring Services and utilizing the BLoC state management design pattern to handle real-time data displayed in the maps UI. Additionally, we have adopted the MVC pattern, which is used for working with Cloud Firestore and handling most operations within our app.
+
 #### For more information regarding Alertawy Mobile App, please refer to the [documentation]().
 
 # Alertawy Mobile App UI
