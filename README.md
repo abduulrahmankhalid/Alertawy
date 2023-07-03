@@ -20,7 +20,7 @@ Road accidents caused by drowsy and distracted driving pose a significant threat
 
 The web application serves as an administration platform, enabling transportation companies to effectively monitor driver reports and evaluate their performance. By analyzing detailed ride data and generating insightful reports, the web application empowers companies to proactively address potential issues and ensure a higher level of driver safety. The project aims to provide proof of concept for an AI-Powered Driver Monitoring System, with the overarching objective of reducing daily accidents caused by driver inattentiveness, drowsiness, or distractions. By monitoring and analyzing the drivers' states while they are on the road, Alertawy contributes to the creation of safer driving environments for all.
 
-#### For more information about Alertawy DMS, please refer to the [documentation]().
+#### For more information about Alertawy DMS, please refer to the [documentation](https://github.com/abduulrahmankhalid/Alertawy/blob/main/Alertawy%20DMS%20Documentation.pdf).
 
 # **Alertawy DMS Introduction**
 
