@@ -7,7 +7,7 @@ Similar to our mobile application, we utilized the Flutter framework for the dev
 
 Our administration web application is built using Flutter, following the same principles and technologies as our mobile application. We prioritize adherence to SOLID Principles, ensuring maintainable and scalable code. The Singleton Design Pattern is implemented for efficient admin and company roles authentication. With the MVC pattern, we handle interactions with Cloud Firestore, separating concerns and enabling smooth data manipulation, retrieval, and UI rendering. These design patterns, combined with Flutter's web development capabilities, provide a solid foundation for a well-structured and user-friendly application. Additionally, we host the web app on Firebase Hosting, leveraging its scalability and security for a reliable user experience.
 
-#### For more information regarding Alertawy Web App, please refer to the [documentation]().
+#### For more information regarding Alertawy Web App, please refer to the [documentation](https://github.com/abduulrahmankhalid/Alertawy/blob/main/Alertawy%20DMS%20Documentation.pdf).
 
 # Alertawy Web App UI
 
