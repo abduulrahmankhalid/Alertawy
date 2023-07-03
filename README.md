@@ -13,6 +13,7 @@ Moreover, we have chosen to adopt the MVC pattern for handling interactions with
 
 By employing these design patterns and leveraging Flutter's capabilities for web development, our administration web application achieves a well-structured and robust foundation, ensuring a smooth user experience and facilitating easy maintenance and future enhancements.
 
+In addition to the design principles and technologies, we have also taken the necessary steps to host our administration web application. Leveraging the Firebase platform, specifically Firebase Hosting, we have deployed our web application to ensure its availability and accessibility to users. By utilizing Firebase Hosting, we can take advantage of its scalability, security, and ease of deployment, allowing us to focus on delivering a seamless and reliable web experience to our administrators.
 
 #### For more information regarding Alertawy Web App, please refer to the [documentation]().
 
