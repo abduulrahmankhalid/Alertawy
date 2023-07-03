@@ -6,7 +6,7 @@ For the development of our mobile application, we chose the Flutter framework du
 
 Our mobile application is developed using the Flutter framework, which offers numerous features and advantages for building clean code architectures following design patterns. We have been meticulous in adhering to these principles, including SOLID Principles, as well as implementing other design patterns such as Singleton Design Pattern for our Monitoring Services and utilizing the BLoC state management design pattern to handle real-time data displayed in the maps UI. Additionally, we have adopted the MVC pattern, which is used for working with Cloud Firestore and handling most operations within our app.
 
-#### For more information regarding Alertawy Mobile App, please refer to the [documentation]().
+#### For more information regarding Alertawy Mobile App, please refer to the [documentation](https://github.com/abduulrahmankhalid/Alertawy/blob/main/Alertawy%20DMS%20Documentation.pdf).
 
 # Alertawy Mobile App UI
  ### Introduction Pages
