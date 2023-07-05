@@ -11,14 +11,9 @@ Our administration web application is built using Flutter, following the same pr
 
 # Alertawy Web App UI
 
-![7](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/b2202f07-f2a7-46ff-b94d-01d1d69c9da6)
-![8](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/117ef92e-69cc-465c-9e33-7c2d78c019c0)
+![7](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/92329c97-4ba9-4f6f-9f44-9c3632e506f0)
+![8](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/08c85b31-8ae3-4a09-af03-148d00d0d141)
 
 # Alertawy Web App Full Demo
 
-
-
-https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/33a535d6-d486-4e15-81c4-7e4bcd04742d
-
-
-
+https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/6addf8bb-7a40-47ac-80bf-c1fbae970327
