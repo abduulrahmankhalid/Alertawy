@@ -14,11 +14,8 @@ Finding the right plugins for integrating TensorFlow Lite models into our Flutte
 
 # Alertawy Testing App UI
 
-![6](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/593fd846-9cd7-4466-a823-b68e0e9d9f9b)
-
+![6](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/ea719c66-302c-4a9b-98bb-99afb4328a44)
 
 # Alertawy Testing App Full Demo
 
-
-https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/21186f44-2b2f-47eb-8cd9-9d6c034ab8af
-
+https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/d88d7b1f-e49b-41ed-86cf-a449c8a1adc7
