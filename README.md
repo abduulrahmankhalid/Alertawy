@@ -10,18 +10,16 @@ Our mobile application is developed using the Flutter framework, which offers nu
 
 # Alertawy Mobile App UI
  ### Introduction Pages
-![1](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/22408360-61ed-4d91-96a0-352cddb55fdf)
-![2](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/878ba3c5-60db-463d-bcf1-516d8f4fe343)
+ 
+![1](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/a1a14234-779c-4661-94b9-e05e63d61492)
+![2](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/422a20a1-888c-4cc5-b9aa-71552a0af6ce)
 
  ### Main Pages
-![3](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/12157a30-5298-4163-b30f-c2155fdbbc8d)
+![3](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/c8aac0da-a541-4c8b-a9c5-7bbdc44d5765)
 
  ### Rides Pages
 ![4](https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/3cb136fb-5a22-44e5-88b3-4297077e381c)
 
-
 # Alertawy Mobile App Full Demo
 
-
-https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/d8f928b3-2b2d-4fb6-bd2d-7ed289459980
-
+https://github.com/abduulrahmankhalid/Alertawy/assets/76521677/550460de-2b13-406d-a8b9-abc08ea0f5f6
