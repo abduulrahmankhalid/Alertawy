@@ -9,7 +9,7 @@
 | [Abdulrahman Emad](https://github.com/AbdoEmad99) |
 | [Shreen Mohamed](https://github.com/Shreen5) |
 | [Sohaila Hassan](https://github.com/sohaila2) |
-| [Islam Reda](https://github.com/EslamTys0n) |
+| [Islam Reda](https://github.com/EslamRedaMohamed) |
 
 #### [Proposing Alertawy](https://www.canva.com/design/DAFlcxArrF4/8AGAj3IOSuUBNd198ntrQw/view?utm_content=DAFlcxArrF4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink), Your ultimate driving safety companion. Revolutionizing driver safety through AI-Powered monitoring system.
 
